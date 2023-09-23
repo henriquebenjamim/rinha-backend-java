@@ -1,7 +1,5 @@
 # Rinha de Backend 2023
 
-![logo da rinha de backend](/misc/default.jpg)
-
 ## O que é?
 Tudo começou com [esse tweet](https://twitter.com/zanfranceschi/status/1685083383397765120). E termininou com uma [live no youtube](https://www.youtube.com/watch?v=VupOWCVQwR8).
 
